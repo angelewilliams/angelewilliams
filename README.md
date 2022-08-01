@@ -18,7 +18,10 @@ I'm Angele and I'm currently enrolled in the Frontend Software Engineering Progr
  * 🏔 Hiking with my energetic dog
  
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kelsie-besinger-yeh-pmp-csm-80947132/)[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:angele.williams5@gmail.com)
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/angele-williams/)
+ 
+ [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:angele.williams5@gmail.com)
+
 <!--
 **angelewilliams/angelewilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [<img src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&amp;logo=codewars&amp;colorB=b1361e" />](https://www.codewars.com/users/kbesingeryeh)
