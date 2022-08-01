@@ -24,7 +24,6 @@ I'm Angele and I'm currently enrolled in the Frontend Software Engineering Progr
 
 <!--
 **angelewilliams/angelewilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[<img src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&amp;logo=codewars&amp;colorB=b1361e" />](https://www.codewars.com/users/kbesingeryeh)
 
 Here are some ideas to get you started:
 * 🔭 I'm currently learning GraphQL/Apollo!
